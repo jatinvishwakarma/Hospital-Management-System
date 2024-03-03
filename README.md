@@ -1,0 +1,1 @@
+The Hotel Management System is a comprehensive Java-based application developed using JDBC and SQL to provide an efficient and user friendly solution for Hospital's operation through seamless integration with a MYSQL Database.
